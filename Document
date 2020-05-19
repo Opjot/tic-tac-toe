@@ -1,0 +1,17 @@
+mvp:
+
+- 3x3 grid, X and O appearing and winner based on 3 in a row
+- game logic would be one feature
+- displaying who’s turn is it  (feature 2)
+-  a new game button to reset everything at the end of the game (feature 3)
+
+
+
+Stretch goals:
+
+- Allow players to enter names
+- implement a score board to record wins
+
+
+
+
